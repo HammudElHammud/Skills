@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Boing';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/boing/Boing_Semibold.html');
+  src: url('../fonts/boing/Boing_Semiboldd41d.html?#iefix') format('embedded-opentype'), 
+       url('../fonts/boing/Boing_Semibold-2.html') format('woff'), 
+       url('../fonts/boing/Boing_Semibold-3.html') format('truetype'), 
+       url('../fonts/boing/Boing_Semibold-4.html#proxima_nova_rgregular') format('svg');
+}
+
+@font-face {
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/graphik/Graphik-Light.html'); /* IE9 Compat Modes */
+    src: url('../fonts/graphik/Graphik-Lightd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/graphik/Graphik-Light-2.html') format('woff'), Modern Browsers
+         url('../fonts/graphik/Graphik-Light-3.html') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/graphik/Graphik-Light-4.html#Graphik-Light') format('svg'); /* Legacy iOS */
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/graphik/Graphik-Regular.html'); /* IE9 Compat Modes */
+  src: url('../fonts/graphik/Graphik-Regulard41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/graphik/Graphik-Regular-2.html') format('woff'), /* Modern Browsers */
+       url('../fonts/graphik/Graphik-Regular-3.html') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/graphik/Graphik-Regular-4.html#Graphik-Regular') format('svg'); /* Legacy iOS */
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/graphik/Graphik-Medium.html'); /* IE9 Compat Modes */
+    src: url('../fonts/graphik/Graphik-Mediumd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/graphik/Graphik-Medium-2.html') format('woff'), /* Modern Browsers */
+         url('../fonts/graphik/Graphik-Medium-3.html') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/graphik/Graphik-Medium-4.html#Graphik-Medium') format('svg'); /* Legacy iOS */
+    text-rendering: optimizeLegibility;
+}
